@@ -2,8 +2,8 @@
 
 This repository contains a simple Todo List Android app developed using Kotlin in Android Studio. The app allows users to manage their tasks efficiently with the help of a SQLite database for data storage.
 
-![tasks page](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/08e00b9b-97ce-41fb-8453-35095c2bd000)
-![add task](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/30ee13c3-84c9-4289-9e1c-be409170d2d3)
-![add 3rd task](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/fcfe4aa5-fb13-4cb6-82f0-c0c6a415837e)
-![edit task](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/4fe33002-7738-4c0d-92e4-af650028faf2)
-![delete task](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/23af380f-1913-448a-b4d2-b9906951082a)
+![tasks page](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/f705ea55-08c5-4aa6-bdd9-8bb099b36f80)
+![add task](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/6eea5686-0fc5-4f06-814b-84e93003847e)
+![add 3rd task](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/78d9dfa3-07ba-4896-8c53-a6f7c48e0e3d)
+![edit task](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/031c65bf-501b-42d0-9747-9e50a821094d)
+![delete task](https://github.com/himasha-jayamanna/Todo_List_App/assets/128303510/252a54d0-5c9c-445b-907d-bf444cc03c83)
